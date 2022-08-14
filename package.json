@@ -1,0 +1,24 @@
+{
+  "name": "bezao",
+  "version": "1.0.0",
+  "description": "\"bezao coding test\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charles-04/bezao.git"
+  },
+  "keywords": [
+    "\"Coding",
+    "test\""
+  ],
+  "author": "Charles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charles-04/bezao/issues"
+  },
+  "homepage": "https://github.com/Charles-04/bezao#readme"
+}
